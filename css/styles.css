@@ -352,7 +352,8 @@ html {
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
-  
+  cursor: pointer;
+ 
   transform: 200ms ease-in;
 }
 .form-btn:hover {
