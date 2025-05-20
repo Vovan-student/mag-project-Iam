@@ -334,3 +334,20 @@ html {
   text-align: center;
   color: #1b2939;
 }
+.form-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding: 24px 32px;
+  margin: 0 auto;
+  min-width: 263px;
+  max-width: 420px;
+  background: linear-gradient(80.23deg, #E8652D -4.25%, #E82DD2 28.23%, #A650FF 69.35%, #009DFF 116.49%);
+  border-radius: 16px;
+
+  text-align: center;
+  color: #ffffff;
+
+} 
